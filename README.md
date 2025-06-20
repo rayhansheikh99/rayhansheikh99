@@ -1,25 +1,15 @@
-# Hi, I'm John 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+John+👋;Mobile+and+Web+Developer;React+%7C+React+Native+%7C+TypeScript+Lover" alt="Typing SVG" />
+</p>
 
-## 💼 Developer | 🔭 Learner | 📱 App Enthusiast
+<!-- About Me -->
+### 👨‍💻 About Me
 
-I'm a full-stack developer who loves working on mobile and web applications. Currently exploring **TypeScript**, **React**, and **mobile app development**.
-
-### 🌱 Currently Learning
-- TypeScript
-- Advanced React patterns
-- Mobile performance optimization
-
-### 🛠️ Technologies I Work With
-- React / React Native
-- Node.js / Express
-- MongoDB / PostgreSQL
-- TypeScript / JavaScript
-
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- Email: your.email@example.com
-
----
-
-_Thanks for visiting! Feel free to check out my repositories and connect!_
+```ts
+const developer = {
+  name: "John Smith",
+  role: "Full-stack App Developer",
+  interests: ["Mobile Development", "TypeScript", "UI/UX", "Performance Optimization"],
+  currentlyLearning: ["TypeScript", "React Native Animations", "Backend at scale"],
+};
