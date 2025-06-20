@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayhan Sheikh</h1>
-<h3 align="center">I'm a **Frontend Developer** skilled in building web and mobile applications using **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and **React Native**. I create responsive, user-friendly interfaces with **Tailwind CSS** and **Material UI**, and manage state effectively using **Redux**. I'm currently learning **Node.js**, **PostgreSQL**, and exploring full-stack developmen.</h3>
+<h3 align="center">I'm a Frontend Developer with expertise in building dynamic web and mobile applications using JavaScript, TypeScript, React.js, Next.js, and React Native. I specialize in crafting responsive, user-friendly interfaces with Tailwind CSS and Material UI, and manage complex state efficiently using Redux. Currently, I'm expanding my skill set into full-stack development by learning Node.js and MongoDB.
+
+</h3>
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, Mongodb, Prisma etc**
 
