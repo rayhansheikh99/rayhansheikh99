@@ -10,8 +10,11 @@ I also have experience publishing and maintaining applications on both the Apple
 💡 Tech Stack & Expertise:
 
    • Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+   
    • Frameworks & Libraries: React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
+   
    • Tools & Platforms: Git, GitHub, Firebase, Netlify, Heroku, Chrome DevTools
+   
    • Core Concepts: Component Architecture, Responsive Design, API Integration
 
 I am passionate about continuous learning, solving real-world problems, and building products that deliver exceptional user experiences. I enjoy working on challenging projects that help me grow both technically and creatively.
