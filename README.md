@@ -9,10 +9,10 @@ Experienced in developing cross-platform mobile apps and responsive web applicat
 I also have experience publishing and maintaining applications on both the Apple App Store and Google Play Store, including production deployment, testing, and app release management.
 💡 Tech Stack & Expertise:
 
-• Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-• Frameworks & Libraries: React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
-• Tools & Platforms: Git, GitHub, Firebase, Netlify, Heroku, Chrome DevTools
-• Core Concepts: Component Architecture, Responsive Design, API Integration
+   • Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+   • Frameworks & Libraries: React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
+   • Tools & Platforms: Git, GitHub, Firebase, Netlify, Heroku, Chrome DevTools
+   • Core Concepts: Component Architecture, Responsive Design, API Integration
 
 I am passionate about continuous learning, solving real-world problems, and building products that deliver exceptional user experiences. I enjoy working on challenging projects that help me grow both technically and creatively.
 Outside of programming, I enjoy listening to audio stories and exploring new ideas, which helps expand my creativity and perspective.
